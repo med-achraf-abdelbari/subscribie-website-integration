@@ -1,0 +1,13 @@
+.navbar-collapse {
+    max-width: 220px;
+}
+
+.header {
+    padding: 2rem 4rem;
+    color: white;
+    background: rgb(74, 150, 254);
+    background: -moz-linear-gradient(36deg, rgba(74, 150, 254, 1) 0%, rgba(74, 150, 254, 1) 39%, rgba(135, 97, 246, 1) 100%);
+    background: -webkit-linear-gradient(36deg, rgba(74, 150, 254, 1) 0%, rgba(74, 150, 254, 1) 39%, rgba(135, 97, 246, 1) 100%);
+    background: linear-gradient(36deg, rgba(74, 150, 254, 1) 0%, rgba(74, 150, 254, 1) 39%, rgba(135, 97, 246, 1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#4a96fe", endColorstr="#8761f6", GradientType=1);
+}
